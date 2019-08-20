@@ -4,6 +4,6 @@ This is a network app, it listens to your network changes and displays the lates
 You have an option to enable/disable the listener
 and see the logs of your network changes from the beginning of time.
 
-![MainScreen](https://imgur.com/a/BvyENWH)
+![MainScreen](https://i.imgur.com/e76mvzb.png)
 
-![Logs Screen](https://imgur.com/a/0DTI2ep)
+![Logs Screen](https://i.imgur.com/zR6KVXY.png)
