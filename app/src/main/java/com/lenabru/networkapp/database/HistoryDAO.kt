@@ -31,6 +31,4 @@ interface HistoryDAO {
     @Update
     suspend fun update(historyRecord: HistoryRecord)
 
-    @Query("DELETE FROM historytable")
-    fun deleteAll()
 }
