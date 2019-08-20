@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetworkApp</string>
+    <string name="from_network_to_network_format">%1$s - %2$s to %3$s</string>
+    <string name="audit_logs">Audit Logs</string>
+    <string name="start">Start</string>
+    <string name="disable">disable</string>
+    <string name="enable">enable</string>
+</resources>
